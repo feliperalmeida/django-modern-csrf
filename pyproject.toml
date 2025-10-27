@@ -44,6 +44,7 @@ exclude = ["tests", "tests.*"]
 DJANGO_SETTINGS_MODULE = "tests.test_project.settings"
 pythonpath = ["."]
 
+
 [tool.coverage.run]
 omit = ["tests/*"]
 
