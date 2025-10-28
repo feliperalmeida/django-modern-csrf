@@ -1,6 +1,6 @@
 [project]
 name = "django-modern-csrf"
-version = "1.0.0"
+version = "1.0.1"
 description = "Modern CSRF protection for Django using Fetch metadata headers."
 authors = [
     { name = "Felipe R. de Almeida", email = "felipe@owasp.org" }
